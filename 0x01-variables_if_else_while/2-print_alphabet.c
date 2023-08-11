@@ -1,9 +1,9 @@
-#include <stdio.h>
 /**
 * main - Prints the alphabet.
 *
 * Return: Always 0 (Success)
 */
+#include <stdio.h>
 int main(void)
 {
     char alp[26] = "abcdefghijklmnopqrstuvwxyz";
