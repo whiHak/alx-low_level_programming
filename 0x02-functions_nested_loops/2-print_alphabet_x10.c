@@ -3,7 +3,7 @@
 /**
  *prints 10 times the alphabet, in lowercase, followed new line
  */
-void print_alphabet_x10(void)
+void print_alphabet_10times(void)
 {
 	char ch;
 	int i;
